@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final_ITC</string>
+        <string name="push">insert</string>
+        <string name="selectdate">Select Date</string>
+        <string name="units">no of units</string>
+        <string name="ftno">Flat no</string>
+
+</resources>
